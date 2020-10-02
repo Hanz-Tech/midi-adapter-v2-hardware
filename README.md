@@ -31,17 +31,17 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 
 # Photos
 
-![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/master/photos/pomav2.jpg)
+![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/main/photos/pomav2.jpg)
 
-![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/master/photos/pomav2-17.jpg)
+![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/main/photos/pomav2-17.jpg)
 
-![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/master/photos/pomav2bottom.jpg)
+![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/main/photos/pomav2bottom.jpg)
 
-![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/beatstep.jpg "Setup")
+![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/main/photos/beatstep.jpg "Setup")
 
-![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/opz.jpg "Setup")
+![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/main/photos/opz.jpg "Setup")
 
-![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/layout.PNG)
+![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/main/photos/layout.PNG)
 
 # BOM
 
