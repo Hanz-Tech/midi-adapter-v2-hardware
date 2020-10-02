@@ -41,7 +41,7 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 
 ![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/main/photos/opz.jpg "Setup")
 
-![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/main/photos/layout.PNG)
+![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/main/photos/layout.PNG)
 
 # BOM
 
@@ -53,9 +53,8 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 
 In addition, you would need the following electronics from Digikey (bom.csv)
 
-|FIELD1                 |FIELD2                     |FIELD3              |FIELD4  |FIELD5                           |
+|Manufacturer Part Number|Manufacturer               |Digi-Key Part Number|Quantity  |Description                   |
 |------------------------|---------------------------|--------------------|--------|--------------------------------|
-|Manufacturer Part Number|Manufacturer               |Digi-Key Part Number|Quantity|Description                     |
 |SN74HC125N              |Texas Instruments          |296-1572-5-ND       |1       |IC BUFFER NON-INVERT 6V 14DIP   |
 |A 14-LC-TT              |Assmann WSW Components     |AE9989-ND           |1       |CONN IC DIP SOCKET 14POS TIN    |
 |1-2199298-1             |TE Connectivity            |A120346-ND          |1       |CONN IC DIP SOCKET 6POS TIN     |
@@ -72,7 +71,7 @@ In addition, you would need the following electronics from Digikey (bom.csv)
 
 Optional
 
-|FIELD1                  |FIELD2                     |FIELD3              |FIELD4  |FIELD5                          |
+|Manufacturer Part Number|Manufacturer               |Digi-Key Part Number|Quantity  |Description                   |
 |------------------------|---------------------------|--------------------|--------|--------------------------------|
 |PPTC241LFBN-RC          |Sullins Connector Solutions|S7022-ND            |2       |CONN HDR 24POS 0.1 TIN PCB      |
 
