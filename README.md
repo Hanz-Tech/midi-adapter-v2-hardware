@@ -31,19 +31,15 @@ This repo contains both the CAD for the 3D printed cover for the Pocket Operator
 
 # Photos
 
-![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/adapter.jpg)
+![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/master/photos/pomav2.jpg)
 
-![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/pins.jpg)
+![Standalone](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/master/photos/pomav2-17.jpg)
+
+![Pins](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-v2-hardware/master/photos/pomav2bottom.jpg)
 
 ![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/beatstep.jpg "Setup")
 
 ![With volca and beatstep](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/opz.jpg "Setup")
-
-![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover.jpg)
-
-![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/cover_back.jpg)
-
-![Cover](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/all_components.jpg)
 
 ![Layout](https://raw.githubusercontent.com/PO-MIDI-Adapter/midi-adapter-hardware/master/photos/layout.PNG)
 
@@ -77,6 +73,7 @@ In addition, you would need the following electronics from Digikey (bom.csv)
 Optional
 
 |FIELD1                  |FIELD2                     |FIELD3              |FIELD4  |FIELD5                          |
+|------------------------|---------------------------|--------------------|--------|--------------------------------|
 |PPTC241LFBN-RC          |Sullins Connector Solutions|S7022-ND            |2       |CONN HDR 24POS 0.1 TIN PCB      |
 
 
