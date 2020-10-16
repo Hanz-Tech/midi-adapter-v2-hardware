@@ -69,7 +69,7 @@ In addition, you would need the following electronics from Digikey (bom.csv)
 |C315C104M5U5TA7303M     |KEMET                      |399-9859-2-ND       |2       |CAP CER 0.1UF 50V Z5U RADIAL    |C2,C1
 |PPTC041LFBN-RC          |Sullins Connector Solutions|S7002-ND            |1       |CONN HDR 4POS 0.1 TIN PCB       |J32
 |1N914                   |ON Semiconductor           |1N914FS-ND          |1       |DIODE GEN PURP 100V 200MA DO35  |D1
-|SDS-50J                 |CUI Inc.                   |CP-2350-ND          |2       |CONN RCPT FMALE DIN 5POS SOLDER |J29,J30
+
 
 Optional
 
