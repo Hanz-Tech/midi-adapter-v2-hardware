@@ -66,9 +66,10 @@ In addition, you would need the following electronics from Digikey (bom.csv)
 |CF14JT10K0              |Stackpole Electronics Inc  |CF14JT10K0CT-ND     |1       |RES 10K OHM 1/4W 5% AXIAL       |R4
 |CF14JT470R              |Stackpole Electronics Inc  |CF14JT470RTR-ND     |1       |RES 470 OHM 1/4W 5% AXIAL       |R8
 |USB-A1HSW6              |On Shore Technology Incs   |ED2989-ND           |1       |USB-A Receptacle Connector 4 Pos|J19
-|C315C104M5U5TA7303M     |KEMET                      |399-9859-2-ND       |2       |CAP CER 0.1UF 50V Z5U RADIAL    |C2,C1
+|C315C104M5U5TA7303      |KEMET                      |399-9859-1-ND       |2       |CAP CER 0.1UF 50V Z5U RADIAL    |C2,C1
 |PPTC041LFBN-RC          |Sullins Connector Solutions|S7002-ND            |1       |CONN HDR 4POS 0.1 TIN PCB       |J32
 |1N914                   |ON Semiconductor           |1N914FS-ND          |1       |DIODE GEN PURP 100V 200MA DO35  |D1
+
 
 Optional
 
