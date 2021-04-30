@@ -1,6 +1,13 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
+Buy it Here 
+
+<a href="https://www.tindie.com/stores/hanztech/?ref=offsite_badges&utm_source=sellers_bobthesheep&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+
+[Etsy](https://www.etsy.com/ca/HanzTechInc/listing/979132858/pocket-operator-midi-adapter-v2)
+
+
 # Disclaimer
 
 You are free to:
